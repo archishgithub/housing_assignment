@@ -1,4 +1,4 @@
-# Hosing Assignment
+# Housing Assignment
 > Use of Advanced Regression in model building
 
 
