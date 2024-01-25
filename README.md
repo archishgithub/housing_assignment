@@ -3,10 +3,8 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Housing Assignment.ipynb : code for Problem Statement - Part I
+* Problem Statement - Part II Solution.pdf : answers for the questions asked
 
 <!-- You can include any other section that is pertinent to your problem -->
 
